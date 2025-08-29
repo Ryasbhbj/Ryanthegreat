@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BallPickle")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+629e7f1e6d28537c6069c887d4a364b2261a97a8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+fe13292c50b8f052898af64fc477f624c2ad9f19")]
 [assembly: System.Reflection.AssemblyProductAttribute("BallPickle")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BallPickle")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
